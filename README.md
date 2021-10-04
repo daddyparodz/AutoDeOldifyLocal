@@ -13,6 +13,7 @@ sudo chmod +x *.sh
 ./fix.sh
 ./setup.sh
 ```
+**fix.sh is for WSL, I used Ubuntu 20.04.3 LTS for testing.**
 
 #### IMPORTANT: WHAT TO PRESS:
 
