@@ -1,5 +1,5 @@
-# AutoDeoldifyLocal
-Automatic installer scripts for DeOldify
+# AutoDeOldifyLocal
+Automatic installer scripts for DeOldify on Jupyter Lab
 
 
 **[BTW with this automatic installer, you get a fully working jupyter lab you can use freely with your other projects aswell]**
@@ -7,8 +7,8 @@ Automatic installer scripts for DeOldify
 ### COMMANDS: [DON'T RUN AS ROOT]
 
 ```
-git clone https://github.com/daddyparodz/AutoDeoldifyLocal.git
-cd AutoDeoldifyLocal
+git clone https://github.com/daddyparodz/AutoDeOldifyLocal.git
+cd AutoDeOldifyLocal
 sudo chmod +x *.sh
 ./fix.sh
 ./setup.sh
