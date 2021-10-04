@@ -1,0 +1,5 @@
+cd DeOldify
+conda activate deoldify
+jupyter server --generate-config
+jupyter server password
+jupyter lab
