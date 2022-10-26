@@ -1,5 +1,5 @@
 # AutoDeOldifyLocal
-Automatic installer scripts for DeOldify on Jupyter Lab
+Automatic silent installer scripts for DeOldify on Jupyter Lab
 
 
 **[BTW with this automatic installer, you get a fully working jupyter lab you can use freely with your other projects aswell]**
@@ -14,14 +14,6 @@ sudo chmod +x *.sh
 ./setup.sh
 ```
 **fix.sh is for WSL, I used Ubuntu 20.04.3 LTS for testing.**
-
-#### IMPORTANT: WHAT TO PRESS:
-
-conda eula > yes
-
-ENTER TO CONFIRM INSTALL DIRECTORY [SHOULD BE IN THE USER FOLDER, NOT ROOT]
-
-conda init > no
 
 #### WHEN SETUP IS COMPLETED, YOU MUST RUN THESE COMMANDS MANUALLY **FROM A NEW SHELL**
 ```
