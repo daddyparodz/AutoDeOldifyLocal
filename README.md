@@ -25,7 +25,7 @@ Automatic silent installer scripts for setting up DeOldify on Jupyter Lab.
     ./fix.sh
     ./setup.sh
     ```
-    *Note:* `fix.sh` is designed for WSL (tested on Ubuntu 20.04.3 LTS).
+    **Note:** `fix.sh` is designed for WSL (tested on Ubuntu 20.04.3 LTS). If you don't have WSL (Windows Subsystem for Linux) installed yet, run `wsl --install` in a command prompt / PowerShell window with admin rights.
 
 ## Post-Setup Instructions
 
@@ -51,7 +51,7 @@ After completing the setup, run the following commands **from a new shell**:
     jupyter lab
     ```
 
-*Note:* If the `conda` command is not recognized, use the full path to Conda:
+**Note:** If the `conda` command is not recognized, use the full path to Conda:
 ```bash
 ~/miniconda3/bin/conda activate deoldify
 ```
